@@ -1,0 +1,13 @@
+Package: BepProMax
+Type: Package 
+Title: A Package for Estimating Break-even Points and Profit Maximizing Output Levels.
+Version: 0.1.0 
+Author: Dhanasekaran Kuppusamy 
+Maintainer: Dhanasekaran Kuppusamy <drgkdphd@gmail.com> 
+Description: A package for  Estimating Break-even Points and Profit Maximizing  Output Levels.
+License: MIT + file LICENSE 
+Encoding:UTF-8 
+LazyData: true
+Data: eg_profit
+Imports:readxl,tidyverse,Deriv,ggplot2,ggthemes
+RoxygenNote: 7.3.2
